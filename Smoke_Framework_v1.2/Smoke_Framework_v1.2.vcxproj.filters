@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Smoke_Framework">
+      <UniqueIdentifier>{a5feb799-fb42-4576-8761-48443c1863b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Smoke_Framework\Global">
+      <UniqueIdentifier>{9af3a8ef-8ded-409a-acf4-bf1ec906e7cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Smoke_Framework\Global\Interfaces">
+      <UniqueIdentifier>{92156748-3cf3-45da-b88b-5b3e2c0a3328}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Smoke_Framework\Components">
+      <UniqueIdentifier>{de9b226c-4cb3-497d-a2c4-7d36caedef23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Smoke_Framework">
+      <UniqueIdentifier>{411f3447-b99f-4827-b384-9306a4035f65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Smoke_Framework\Global">
+      <UniqueIdentifier>{44c3470a-c05e-44ef-849f-d354dcc1adaa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Smoke_Framework\Components">
+      <UniqueIdentifier>{e65a397a-cfb1-4cd2-bb75-cb4256216ff9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Smoke_Framework\Global\Systems / Managers">
+      <UniqueIdentifier>{81bad9cb-d6a3-4e61-b52b-71a52c4a16a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Smoke_Framework\Global\Systems / Managers\Graphics">
+      <UniqueIdentifier>{fadcb0ea-c655-4112-a26f-4c26895892cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Smoke_Framework\Global\Systems / Managers">
+      <UniqueIdentifier>{3b744997-405f-48c6-aa97-9f1c92c438b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Smoke_Framework\Global\Systems / Managers\Graphics">
+      <UniqueIdentifier>{433b8cc3-19c3-409a-989b-db44ded4cc80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Smoke_Framework\Global\Systems / Managers\Handle Manager">
+      <UniqueIdentifier>{65c76d97-eaa2-4ceb-85f0-2d32700c9099}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Smoke_Framework\Global\Systems / Managers\Handle Manager">
+      <UniqueIdentifier>{4dafe4b8-e64a-4662-9acf-c991c4ad624b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Smoke_Framework\Global\Event System">
+      <UniqueIdentifier>{48d6dac7-3e7e-4808-ade4-6280e246377b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Smoke_Framework\Global\Debugger">
+      <UniqueIdentifier>{79a6d9da-36f2-496c-9af4-4108170fbd94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Smoke_Framework\Global\Systems / Managers\Entities">
+      <UniqueIdentifier>{79b80742-18dd-44a6-87f3-d5825331b2a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Smoke_Framework\Global\Systems / Managers\Entities">
+      <UniqueIdentifier>{22512a5a-abc2-40a2-87f1-6d4a3d872a77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Smoke_Framework\Global\Systems / Managers\Physics">
+      <UniqueIdentifier>{15b5fc4b-235c-4717-b661-3d7b63c873fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Smoke_Framework\Global\Systems / Managers\Physics">
+      <UniqueIdentifier>{fbda6951-940b-4230-aa83-ea32ce0769d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Smoke_Framework\Global\Systems / Managers\Input">
+      <UniqueIdentifier>{6c4d9b3d-1a58-409b-92a4-5f5d12ad17c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Smoke_Framework\Global\Systems / Managers\Input">
+      <UniqueIdentifier>{612a78e6-7073-4859-971a-228ece2683a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Smoke_Framework\Global\Systems / Managers\Input\Devices">
+      <UniqueIdentifier>{5ba5d0c5-157a-41f6-ab5b-aa812b912863}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Smoke_Framework\Global\Systems / Managers\Input\Devices">
+      <UniqueIdentifier>{74184d29-6cf1-4d1c-add1-b990d15877f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Smoke_Framework\Global\Systems / Managers\UI">
+      <UniqueIdentifier>{32ec4d5b-72f6-4aa3-8b60-b8ef2b92d840}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Smoke_Framework\Global\Systems / Managers\Background Manager">
+      <UniqueIdentifier>{42aa16f1-539e-4e8a-9cbb-b9aedd5ece33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Smoke_Framework\Global\Systems / Managers\Background Manager">
+      <UniqueIdentifier>{2619ff81-4271-4a91-a20b-ccf55f262f42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Smoke_Framework\Global\Debugger">
+      <UniqueIdentifier>{3e6fa5e7-a8eb-449c-82c4-25133363a0b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Smoke_Framework\Global\Event System">
+      <UniqueIdentifier>{55e8d4a6-a191-4456-b76a-dbf20e485143}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Smoke_Framework\Global\Systems / Managers\UI System">
+      <UniqueIdentifier>{bec27d25-98ff-417e-9b9e-fcb1aea69ff6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Engine.h">
+      <Filter>Header Files\Smoke_Framework\Global</Filter>
+    </ClInclude>
+    <ClInclude Include="IComponent.h">
+      <Filter>Header Files\Smoke_Framework\Global\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="ISystem.h">
+      <Filter>Header Files\Smoke_Framework\Global\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="EntityComponent.h">
+      <Filter>Header Files\Smoke_Framework\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicsComponent.h">
+      <Filter>Header Files\Smoke_Framework\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="InputComponent.h">
+      <Filter>Header Files\Smoke_Framework\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicsComponent.h">
+      <Filter>Header Files\Smoke_Framework\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicsSystem.h">
+      <Filter>Header Files\Smoke_Framework\Global\Systems / Managers\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Handle.h">
+      <Filter>Header Files\Smoke_Framework\Global\Systems / Managers\Handle Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="HandleManager.h">
+      <Filter>Header Files\Smoke_Framework\Global\Systems / Managers\Handle Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoDRenderer.h">
+      <Filter>Header Files\Smoke_Framework\Global\Systems / Managers\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Delegate.h">
+      <Filter>Header Files\Smoke_Framework\Global\Event System</Filter>
+    </ClInclude>
+    <ClInclude Include="Event.h">
+      <Filter>Header Files\Smoke_Framework\Global\Event System</Filter>
+    </ClInclude>
+    <ClInclude Include="EventManager.h">
+      <Filter>Header Files\Smoke_Framework\Global\Event System</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug.h">
+      <Filter>Header Files\Smoke_Framework\Global\Debugger</Filter>
+    </ClInclude>
+    <ClInclude Include="LogFile.h">
+      <Filter>Header Files\Smoke_Framework\Global\Debugger</Filter>
+    </ClInclude>
+    <ClInclude Include="Font.h">
+      <Filter>Header Files\Smoke_Framework\Global\Debugger</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Header Files\Smoke_Framework\Global</Filter>
+    </ClInclude>
+    <ClInclude Include="IRenderable.h">
+      <Filter>Header Files\Smoke_Framework\Global\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>Header Files\Smoke_Framework\Global</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector.h">
+      <Filter>Header Files\Smoke_Framework\Global</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files\Smoke_Framework\Global</Filter>
+    </ClInclude>
+    <ClInclude Include="EntitySystem.h">
+      <Filter>Header Files\Smoke_Framework\Global\Systems / Managers\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicsSystem.h">
+      <Filter>Header Files\Smoke_Framework\Global\Systems / Managers\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="InputSystem.h">
+      <Filter>Header Files\Smoke_Framework\Global\Systems / Managers\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="InputManager.h">
+      <Filter>Header Files\Smoke_Framework\Global\Systems / Managers\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="IInputDevice.h">
+      <Filter>Header Files\Smoke_Framework\Global\Systems / Managers\Input\Devices</Filter>
+    </ClInclude>
+    <ClInclude Include="Keyboard.h">
+      <Filter>Header Files\Smoke_Framework\Global\Systems / Managers\Input\Devices</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Header Files\Smoke_Framework\Global\Systems / Managers\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Direct3D.h">
+      <Filter>Header Files\Smoke_Framework\Global\Systems / Managers\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Header Files\Smoke_Framework\Global</Filter>
+    </ClInclude>
+    <ClInclude Include="Factory.h">
+      <Filter>Header Files\Smoke_Framework\Global</Filter>
+    </ClInclude>
+    <ClInclude Include="Pow2Assert.h">
+      <Filter>Header Files\Smoke_Framework\Global\Systems / Managers\Handle Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="BackgroundManager.h">
+      <Filter>Header Files\Smoke_Framework\Global\Systems / Managers\Background Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticBackground.h">
+      <Filter>Header Files\Smoke_Framework\Global\Systems / Managers\Background Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Mouse.h">
+      <Filter>Header Files\Smoke_Framework\Global\Systems / Managers\Input\Devices</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera2D.h">
+      <Filter>Header Files\Smoke_Framework\Global\Systems / Managers\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="IBackground.h">
+      <Filter>Header Files\Smoke_Framework\Global\Systems / Managers\Background Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="UIComponent.h">
+      <Filter>Header Files\Smoke_Framework\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="UISystem.h">
+      <Filter>Header Files\Smoke_Framework\Global\Systems / Managers\UI System</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Engine.cpp">
+      <Filter>Source Files\Smoke_Framework\Global</Filter>
+    </ClCompile>
+    <ClCompile Include="EntityComponent.cpp">
+      <Filter>Source Files\Smoke_Framework\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicsComponent.cpp">
+      <Filter>Source Files\Smoke_Framework\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="InputComponent.cpp">
+      <Filter>Source Files\Smoke_Framework\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicsComponent.cpp">
+      <Filter>Source Files\Smoke_Framework\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="HandleManager.cpp">
+      <Filter>Source Files\Smoke_Framework\Global\Systems / Managers\Handle Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoDRenderer.cpp">
+      <Filter>Source Files\Smoke_Framework\Global\Systems / Managers\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicsSystem.cpp">
+      <Filter>Source Files\Smoke_Framework\Global\Systems / Managers\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Source Files\Smoke_Framework\Global</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector.cpp">
+      <Filter>Source Files\Smoke_Framework\Global</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>Source Files\Smoke_Framework\Global</Filter>
+    </ClCompile>
+    <ClCompile Include="EntitySystem.cpp">
+      <Filter>Source Files\Smoke_Framework\Global\Systems / Managers\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicsSystem.cpp">
+      <Filter>Source Files\Smoke_Framework\Global\Systems / Managers\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="InputSystem.cpp">
+      <Filter>Source Files\Smoke_Framework\Global\Systems / Managers\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="InputManager.cpp">
+      <Filter>Source Files\Smoke_Framework\Global\Systems / Managers\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Keyboard.cpp">
+      <Filter>Source Files\Smoke_Framework\Global\Systems / Managers\Input\Devices</Filter>
+    </ClCompile>
+    <ClCompile Include="Mouse.cpp">
+      <Filter>Source Files\Smoke_Framework\Global\Systems / Managers\Input\Devices</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Source Files\Smoke_Framework\Global\Systems / Managers\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Direct3D.cpp">
+      <Filter>Source Files\Smoke_Framework\Global\Systems / Managers\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Source Files\Smoke_Framework\Global</Filter>
+    </ClCompile>
+    <ClCompile Include="Factory.cpp">
+      <Filter>Source Files\Smoke_Framework\Global</Filter>
+    </ClCompile>
+    <ClCompile Include="Pow2Assert.cpp">
+      <Filter>Source Files\Smoke_Framework\Global\Systems / Managers\Handle Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticBackground.cpp">
+      <Filter>Source Files\Smoke_Framework\Global\Systems / Managers\Background Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="BackgroundManager.cpp">
+      <Filter>Source Files\Smoke_Framework\Global\Systems / Managers\Background Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug.cpp">
+      <Filter>Source Files\Smoke_Framework\Global\Debugger</Filter>
+    </ClCompile>
+    <ClCompile Include="Font.cpp">
+      <Filter>Source Files\Smoke_Framework\Global\Debugger</Filter>
+    </ClCompile>
+    <ClCompile Include="LogFile.cpp">
+      <Filter>Source Files\Smoke_Framework\Global\Debugger</Filter>
+    </ClCompile>
+    <ClCompile Include="EventManager.cpp">
+      <Filter>Source Files\Smoke_Framework\Global\Event System</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera2D.cpp">
+      <Filter>Source Files\Smoke_Framework\Global\Systems / Managers\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="UIComponent.cpp">
+      <Filter>Source Files\Smoke_Framework\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="UISystem.cpp">
+      <Filter>Source Files\Smoke_Framework\Global\Systems / Managers\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Windows.cpp">
+      <Filter>Source Files\Smoke_Framework\Global</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="textureList.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+Initializing engine...
+	Input System initialized
+	Physics System initialized
+	Entity System initialized
+	Graphics Systems initialized
+	UISystem Systems initialized
+Engine initialized successfully
+Shutting down engine...
+	PhysicsSystem shutdown
+	EntitySystem shutdown
+	GraphicsSystem shutdown
+	UISystem shutdown
+	Texture manager shutdown
+	Input shutdown
+	Event manager shutdown
+	Direct3D shutdown
+Engine shutdown successfully!
